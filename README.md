@@ -1,1 +1,2 @@
-# heart-disease-prediction-using-ml
+# heart-disease-prediction-ml
+heart-disease-prediction-ml
