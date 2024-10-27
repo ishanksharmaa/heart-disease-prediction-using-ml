@@ -76,19 +76,4 @@ next step would be to follow the instruction given on [Heroku Documentation](htt
 - improve model performance.
 - Add more better styling to the user interface.
 
-**Some Useful Resources**
-
-- **Flask Quickstart Documentation** : [https://flask.palletsprojects.com/en/1.1.x/quickstart/](https://flask.palletsprojects.com/en/1.1.x/quickstart/)
-
-
-
-
-
-
-
-
-  
-  
-  
-
 
